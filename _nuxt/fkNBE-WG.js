@@ -1,0 +1,1 @@
+import{p as s}from"./B3KWqWP4.js";const a=s("/assets/image/mailIcon2.png"),o=s("/assets/image/callIcon2.png"),n=s("/assets/image/locationIcon.png"),i=s("/assets/image/fbIcon2.png"),e=s("/assets/image/twitterIcon2.png"),c=s("/assets/image/linkedInIcon2.png");export{a as _,o as a,n as b,i as c,e as d,c as e};

@@ -1,0 +1,1 @@
+import{_ as t}from"./C33wPW0r.js";import{_ as o,c as _,b as a,o as c}from"./B3KWqWP4.js";import"./BpAFtYC_.js";const n={__name:"template",setup(r){return(p,s)=>{const e=t;return c(),_("div",null,[a(e)])}}},u=o(n,[["__scopeId","data-v-4b541c65"]]);export{u as default};
