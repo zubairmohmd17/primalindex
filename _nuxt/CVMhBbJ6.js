@@ -1,0 +1,1 @@
+import{_ as t}from"./DbMTVygX.js";import{_ as o,c as _,b as a,o as c}from"./Cwd-aUSH.js";import"./N70pEX50.js";const n={__name:"template",setup(r){return(p,s)=>{const e=t;return c(),_("div",null,[a(e)])}}},u=o(n,[["__scopeId","data-v-4b541c65"]]);export{u as default};
